@@ -10,7 +10,6 @@
     Realtively simple 
     - time complexity =O(n)
     - space complexity=O(n+m)
-    <hr>
 
 > 2nd 
     easy
