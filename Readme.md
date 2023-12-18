@@ -2,18 +2,25 @@
 
 ## [-_-]
 
-> 1st 
-     easy
+### 1st Problem
+**Difficulty: Easy**
+This problem bears a resemblance to the merge step in the merge-sort algorithm. It is relatively straightforward, with:
+- Time Complexity: O(n)
+- Space Complexity: O(n + m)
 
-    question has similar feeling as the merge of merge sort function.
-     
-    Realtively simple 
-    - time complexity =O(n)
-    - space complexity=O(n+m)
+### 2nd Problem
+**Difficulty: Easy**
+This problem involves checking whether consecutive numbers in a list are identical and excluding duplicates. The solution entails:
+- Time Complexity: O(n)
+- Space Complexity: O(1)
 
-> 2nd 
-    easy
+### 3rd Problem
+**Difficulty: Easy (Moderate)**
+This problem revolves around finding the index of a substring within a larger string. It is slightly more challenging but still falls within the easy category:
 
-    it just to check whether the next number in the list is same or not if it is don't count that
-    - time complexity =O(n)
-    - space complexity =O(1)
+I did pseudocode with python 
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
+
+    
