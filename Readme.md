@@ -22,5 +22,13 @@ I did pseudocode with python
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 
+### 4th Problem
+**Difficulty: Easy**
+This problem addresses the task of finding the insertion point of a target element in a sorted array while adhering to the following constraints:
+
+Since O(logn) was given in the problem ,my first approach was to do binary search :
+
+Time Complexity: O(log n)
+Space Complexity: O(1)
 
     
