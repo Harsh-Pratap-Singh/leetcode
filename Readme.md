@@ -28,7 +28,14 @@ This problem addresses the task of finding the insertion point of a target eleme
 
 Since O(logn) was given in the problem ,my first approach was to do binary search :
 
-Time Complexity: O(log n)
-Space Complexity: O(1)
+- Time Complexity: O(log n)
+- Space Complexity: O(1)
+
+### 5th Problem
+**Difficulty: Easy**
+This problem is easy to solve if you thing form backword of the array not from forward because i first approach it with the forward approach i can not pass the one test case :
+
+- Time Complexity: O(n)
+- Space Complexity: O(1)
 
     
