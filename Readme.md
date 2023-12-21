@@ -38,4 +38,11 @@ This problem is easy to solve if you thing form backword of the array not from f
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 
-    
+### 6th Problem
+**Difficulty: Easy**
+My first approach was to add all the numbers and then divide the sum by 2. If the remainder was not 0, I considered that as the answer.If 0 then using while loop . However, this method only satisfied 6 out of 61 test cases (excluding negative numbers).
+
+After reviewing discussions, I decided to explore a different approach using XOR.
+
+- Time Complexity: O(n)
+- Space Complexity: O(1)
