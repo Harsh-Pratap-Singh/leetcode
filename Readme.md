@@ -46,3 +46,14 @@ After reviewing discussions, I decided to explore a different approach using XOR
 
 - Time Complexity: O(n)
 - Space Complexity: O(1)
+
+### 7th Problem
+**Difficulty: Medium**
+Find First and Last Position of Element in Sorted Array.
+
+The task is to find the first and last positions of an element in a sorted array with a desired time complexity of O(logn). I recognized that binary search would be a suitable approach, and then I employed two distinct loops to find the first and last positions.
+
+- Time Complexity: O(logn)
+- Space Complexity: O(1)
+
+
