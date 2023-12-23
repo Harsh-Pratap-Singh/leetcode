@@ -56,4 +56,11 @@ The task is to find the first and last positions of an element in a sorted array
 - Time Complexity: O(logn)
 - Space Complexity: O(1)
 
+### 8th Problem
+**Difficulty: Easy**
+Easily one of the easiest question in the leet code just had to add term that that are not equal to be erase term in the array.
+
+- Time Complexity: O(n)
+- Space Complexity: O(1)
+
 
