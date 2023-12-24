@@ -63,4 +63,9 @@ Easily one of the easiest question in the leet code just had to add term that th
 - Time Complexity: O(n)
 - Space Complexity: O(1)
 
+### 9th Problem
+**Difficulty:Easy**
+My first approach was simply checking whether closing bracket exist in the array is equal to opening bracket, but cannot passed the all test case because didn't count for ([)] , So latter use stack .
 
+- Time Complexity: O(n)
+- Space Complexity: O(n)
