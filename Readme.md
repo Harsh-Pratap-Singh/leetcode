@@ -69,3 +69,11 @@ My first approach was simply checking whether closing bracket exist in the array
 
 - Time Complexity: O(n)
 - Space Complexity: O(n)
+
+### 10th Problem
+**Difficulty:Easy**
+sqrt(x) i first think it as simply doing loop then comparing upper and lower limit then print the lower value .
+but the top answer was simply return sqrt(x) !_!
+
+- Time Complexity:O(1)
+- Space Complexity:O(1)
