@@ -77,3 +77,10 @@ but the top answer was simply return sqrt(x) !_!
 
 - Time Complexity:O(1)
 - Space Complexity:O(1)
+
+### 11th Problem
+**Difficulty:Easy**
+simple use of shift operator >>= to compare whether it is 1 or not .
+
+- Time Complexity:O(n)
+- Space Complexity:O(1)
