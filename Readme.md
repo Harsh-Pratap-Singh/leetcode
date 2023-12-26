@@ -84,3 +84,8 @@ simple use of shift operator >>= to compare whether it is 1 or not .
 
 - Time Complexity:O(n)
 - Space Complexity:O(1)
+### 12th Problem
+**Difficulty:Easy**
+I used approach like if operator bits some equal to k then it will used as indices .
+- Time Complexity:O(nlogn)
+- space Complexity:O(1)
