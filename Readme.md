@@ -89,3 +89,9 @@ simple use of shift operator >>= to compare whether it is 1 or not .
 I used approach like if operator bits some equal to k then it will used as indices .
 - Time Complexity:O(nlogn)
 - space Complexity:O(1)
+
+### 13th Problem
+**Difficulty:Easy**
+My approach was to make [0][0] as 1 then made all first and last element in the first list as 1,1 and remaining will the addition of the row above it.
+- Time complexity:O(n^2)
+- space complexity:O(n^2)
