@@ -102,3 +102,9 @@ Take my fair share of time understand but when clicked it was very simple , we j
 
 - Time complexity:O(n)
 - space complexity:O(n)
+### 15th Problem
+**Difficulty:Medium**
+i used python in this as the pseudo code , but with python it was too easy now i am struggling lil bit with c but did it , i wasn't thinking straigth with str once i did i got this easily 
+
+- Time complexity:O(n)
+- space complexity:O(1)
