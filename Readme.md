@@ -95,3 +95,10 @@ I used approach like if operator bits some equal to k then it will used as indic
 My approach was to make [0][0] as 1 then made all first and last element in the first list as 1,1 and remaining will the addition of the row above it.
 - Time complexity:O(n^2)
 - space complexity:O(n^2)
+
+### 14th Problem
+**Difficulty:Easy**
+Take my fair share of time understand but when clicked it was very simple , we just had to work with multiple loops :
+
+- Time complexity:O(n)
+- space complexity:O(n)
