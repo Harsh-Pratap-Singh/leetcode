@@ -108,3 +108,10 @@ i used python in this as the pseudo code , but with python it was too easy now i
 
 - Time complexity:O(n)
 - space complexity:O(1)
+
+### 16th Problem
+**Difficulty:Easy**
+Happy to find the solution in the first try with recursion , i love how easy it was with recursion . I can do this with the loop only but feeling when you get using recursion is something else.
+
+- Time complexity :0(nlogn) 
+- space compelxity :O(nlogn)
