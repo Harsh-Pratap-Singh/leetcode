@@ -122,3 +122,10 @@ simple problem with the for loop just has to track the distance between the same
 
 - Time complexity :0(n^2)
 - space compelxity :O(1)
+
+### 18th Problem
+**Difficulty:Medium**
+i tried solving this with c but find it little bit complicated so instead i shifted to cpp .
+
+- Time complexity :0(n^2)
+- space compelxity :O(1)
