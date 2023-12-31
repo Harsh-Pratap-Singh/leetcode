@@ -115,3 +115,10 @@ Happy to find the solution in the first try with recursion , i love how easy it 
 
 - Time complexity :0(nlogn) 
 - space compelxity :O(nlogn)
+
+### 17th Problem
+**Difficulty:Easy**
+simple problem with the for loop just has to track the distance between the same char if there exist a greater distance change it to that .
+
+- Time complexity :0(n^2)
+- space compelxity :O(1)
