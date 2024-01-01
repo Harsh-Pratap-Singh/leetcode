@@ -118,7 +118,8 @@ Happy to find the solution in the first try with recursion , i love how easy it 
 
 ### 17th Problem
 **Difficulty:Easy**
-simple problem with the for loop just has to track the distance between the same char if there exist a greater distance change it to that .
+simple problem with the for loop just has to track the distance between the same char if there exist a greater distance change it to that . 
+IMP :- should have used 2 pointer one from start and other from the back and then compare it to find the distance it will biggest by difault and also be taking less time.
 
 - Time complexity :0(n^2)
 - space compelxity :O(1)
@@ -129,3 +130,10 @@ i tried solving this with c but find it little bit complicated so instead i shif
 
 - Time complexity :0(n^2)
 - space compelxity :O(1)
+
+### 19th Problem
+**Difficulty:Easy**
+simple just missed the case if one str has much more chraracter test case , but after some test got this too.
+
+- Time complexity :0(n^2)
+- space compelxity :O(n)
