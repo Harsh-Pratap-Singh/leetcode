@@ -137,3 +137,10 @@ simple just missed the case if one str has much more chraracter test case , but 
 
 - Time complexity :0(n^2)
 - space compelxity :O(n)
+
+### 20th Problem 
+**Difficulty: medium**
+use counter to calculate if counter is two append the row2 , if row2 not exist make it first.
+
+- Time complexity : O(n^2 * log(n))
+- space compelxity :O(n^2)
