@@ -144,3 +144,10 @@ use counter to calculate if counter is two append the row2 , if row2 not exist m
 
 - Time complexity : O(n^2 * log(n))
 - space compelxity :O(n^2)
+
+### 21th Problem
+**Difficulty:medium**
+I didn't think for making a counter for the previous value that is why i am continuing getting wrong value it was a dumb mistake, but when i do take this prev value counter in the accounnt it became a cake walk.
+
+- Time complexity :O(n^2)
+- space compelx:O(n)
