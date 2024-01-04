@@ -158,3 +158,10 @@ After doing the rought work i got that if the count of each divided by the 3 if 
 
 - Time complexity :O(n)
 - space complexity :O(max(n)) 
+
+### 23th Problem
+**Difficulty: Hard**
+Trick is make two counter one for result and other for checking if the result will increament or not , if pre<0 than break and return result , also first we have to sort it that is why i used cpp instead of c because using qsort is rather tedious .
+
+- Time complexity :O(nlogn)
+- space complexity :O(1)
