@@ -150,4 +150,11 @@ use counter to calculate if counter is two append the row2 , if row2 not exist m
 I didn't think for making a counter for the previous value that is why i am continuing getting wrong value it was a dumb mistake, but when i do take this prev value counter in the accounnt it became a cake walk.
 
 - Time complexity :O(n^2)
-- space compelx:O(n)
+- space complexity:O(n)
+
+### 22th Problem
+**Difficulty:medium**
+After doing the rought work i got that if the count of each divided by the 3 if it is 10.1 taking the ceiling of it because we have to take 2 two step one in it , then adding  all to the result . Have little bit of problem in the memory management .
+
+- Time complexity :O(n)
+- space complexity :O(max(n)) 
