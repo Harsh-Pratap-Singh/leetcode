@@ -178,3 +178,10 @@ I don't understand this problem at so has to look up for video in the youtube ,@
 i did it with most brute force approach possible , instead of making the another array i just erase that are useless and change their values.
 - time complexity :O(n^2) 
 - space complexity :O(1)
+
+### 26th Problem
+**Difficulty: hard**
+most basic instinct was to plant the plant that take longest to bloom as it will help , so first i have to sort it . I already figured out that using c will make it complicated and i don't know cpp to much so i first search how to sort pair of vector , which was easier than i thought , later making counter was the nail in the coffin , first didn't thought of if having second last blooming extending the last but after taking the max of it i got the answer.
+
+- Time complexity :O(nlogn)
+- Space complexity :O(n)
