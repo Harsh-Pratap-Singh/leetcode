@@ -165,3 +165,10 @@ Trick is make two counter one for result and other for checking if the result wi
 
 - Time complexity :O(nlogn)
 - space complexity :O(1)
+
+### 24th Problem
+**Difficulty: medium**
+I don't understand this problem at so has to look up for video in the youtube ,@neetcode explaination help me alot.
+
+- Time complexity :O(n^2)
+- space complexity :O(n)
