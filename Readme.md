@@ -172,3 +172,9 @@ I don't understand this problem at so has to look up for video in the youtube ,@
 
 - Time complexity :O(n^2)
 - space complexity :O(n)
+
+### 25th Problem
+**Difficulty: medium**
+i did it with most brute force approach possible , instead of making the another array i just erase that are useless and change their values.
+- time complexity :O(n^2) 
+- space complexity :O(1)
