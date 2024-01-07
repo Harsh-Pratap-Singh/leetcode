@@ -20,7 +20,7 @@ public:
         for( int i = n -1 ;i >= 0 ;i --){
 
             day += plt[i].first;
-            dayg =max(dayg, plt[i].second + day) ;
+            dayg =max(dayg, plt[i].second + day) ; // this is useless as we can just take max of ans = max(ans,plt[i].second)
             ans = max(day,dayg);
 
 
