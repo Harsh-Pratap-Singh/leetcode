@@ -191,9 +191,9 @@ most basic instinct was to plant the plant that take longest to bloom as it will
 is was the one of the trickiest question , but answer always be false, as n-2 always give result 12 which is not palindrome.
     - n = 5 
     - n-2  = 3
-    - n%3=1
-    - n = n/3 = 2
-    - n%3 = 2
+    - n%3= 2
+    - n = n/3 = 1
+    - n%3 = 1
     - 12 is not a palindrome
 - Time complexity :O(1)
 - Space complexity :O(1)
