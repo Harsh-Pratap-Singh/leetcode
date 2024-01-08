@@ -197,3 +197,9 @@ is was the one of the trickiest question , but answer always be false, as n-2 al
     - 12 is not a palindrome
 - Time complexity :O(1)
 - Space complexity :O(1)
+
+### 28th Problem
+**Difficulty : easy**
+bst question with recursion . 
+- Time complexity :O(logn)
+- Space complexity :O(1)
