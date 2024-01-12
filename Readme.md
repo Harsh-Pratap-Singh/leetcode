@@ -203,3 +203,9 @@ is was the one of the trickiest question , but answer always be false, as n-2 al
 bst question with recursion . 
 - Time complexity :O(logn)
 - Space complexity :O(1)
+
+### 29th Problem
+**Difficulty : easy**
+simple 1 counter for each half .
+- Time complexity :O(n)
+- Space complexity :O(1)
