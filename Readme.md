@@ -209,3 +209,13 @@ bst question with recursion .
 simple 1 counter for each half .
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 30th Problem
+**Difficulty : medium**
+problem three important step:
+1. counter for each letter
+2. checking if no letter match then false , if length differ return false
+3. sort them and compare them if they are equal return true else false
+
+- Time complexity :O(nlogn)
+- Space complexity :O(n)
