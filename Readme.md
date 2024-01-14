@@ -219,3 +219,9 @@ problem three important step:
 
 - Time complexity :O(nlogn)
 - Space complexity :O(n)
+
+### 31th Problem
+**Difficulty : easy**
+it is a variation of boyer moore voting problem where we take first element as conditate and vote = 1 if second element is same vote++ else vote-- once vote = 0 we will make the arr[i] as the candidate , loop until the end , then return the candidate as winning one 
+- Time complexity :O(n)
+- Space complexity :O(1)
