@@ -225,3 +225,9 @@ problem three important step:
 it is a variation of boyer moore voting problem where we take first element as conditate and vote = 1 if second element is same vote++ else vote-- once vote = 0 we will make the arr[i] as the candidate , loop until the end , then return the candidate as winning one 
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 32th Problem
+**Difficulty : medium**
+Brute force using hashmap but alot of memory allocation using calloc was better than malloc as it initializes the value to zero
+- Time complexity :O(n)
+- Space complexity :O(n)
