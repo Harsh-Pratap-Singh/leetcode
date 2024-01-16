@@ -237,3 +237,10 @@ Brute force using hashmap but alot of memory allocation using calloc was better 
 Brute force approach using the nested loop resulted in the time exceed , so used two pointer instead (shifting pointer) make it a lot easier .
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 34th Problem
+**Difficulty : hard**
+classic problem has little bit of 2 pointer with checking if less than move smaller with the special thing 
+Key => from i lhs and rhs find the larger value and add the min(rhs,lhs)-value[i]  at each index.
+- Time complexity :O(n)
+- Space complexity :O(1)
