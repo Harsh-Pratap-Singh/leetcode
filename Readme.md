@@ -231,3 +231,9 @@ it is a variation of boyer moore voting problem where we take first element as c
 Brute force using hashmap but alot of memory allocation using calloc was better than malloc as it initializes the value to zero
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 33th Problem
+**Difficulty : medium**
+Brute force approach using the nested loop resulted in the time exceed , so used two pointer instead (shifting pointer) make it a lot easier .
+- Time complexity :O(n)
+- Space complexity :O(1)
