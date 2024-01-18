@@ -244,3 +244,9 @@ classic problem has little bit of 2 pointer with checking if less than move smal
 Key => from i lhs and rhs find the larger value and add the min(rhs,lhs)-value[i]  at each index.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 35th Problem
+**Difficulty :medium**
+simple stack problem when accounter * then pop else push.
+- Time complexity :O(n)
+- Space complexity :O(n)
