@@ -250,3 +250,9 @@ Key => from i lhs and rhs find the larger value and add the min(rhs,lhs)-value[i
 simple stack problem when accounter * then pop else push.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 36th Problem
+**Difficulty :medium**
+double pointer problem , sliding both pointer when value is little less or more.
+- Time complexity :O(n)
+- Space complexity :O(1)
