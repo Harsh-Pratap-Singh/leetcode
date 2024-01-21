@@ -263,3 +263,9 @@ House robber, best example for dp after the min step , dp solution are beautiful
 use only 2 pointer last and second and find the max of it.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 38th Problem
+**Difficulty :medium**
+it was rather a math puzzle , one could've used dp here.
+- Time complexity :O(n)
+- Space complexity :O(1)
