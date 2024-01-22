@@ -282,3 +282,9 @@ i did think of one solution but that didn't work , so tried solving with discuss
 review it later.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 41th Problem
+**Difficulty :hard**
+beautiful question ,i really love math problems , once you got it , it became obvious to you.
+- Time complexity :O(logn);
+- Space complexity :O(1);
