@@ -275,3 +275,10 @@ it was rather a math puzzle , one could've used dp here.
 simple stack problem , did this one on the exam .
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 40th Problem
+**Difficulty :medium**
+i did think of one solution but that didn't work , so tried solving with discussion's hint,stil unsure how this work.
+review it later.
+- Time complexity :O(n)
+- Space complexity :O(1)
