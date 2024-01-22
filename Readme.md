@@ -269,3 +269,9 @@ use only 2 pointer last and second and find the max of it.
 it was rather a math puzzle , one could've used dp here.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 39th Problem
+**Difficulty :medium**
+simple stack problem , did this one on the exam .
+- Time complexity :O(n)
+- Space complexity :O(n)
