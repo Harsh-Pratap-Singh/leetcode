@@ -286,5 +286,11 @@ review it later.
 ### 41th Problem
 **Difficulty :hard**
 beautiful question ,i really love math problems , once you got it , it became obvious to you.
-- Time complexity :O(logn);
-- Space complexity :O(1);
+- Time complexity :O(logn)
+- Space complexity :O(1)
+
+### 42nd Problem
+**Difficulty :medium**
+Math problem, use example to formalute a eq than apply it .
+- Time complexity :O(n)
+- Space complexity :O(1)
