@@ -306,3 +306,9 @@ Problem lies how to exclude the k , simple if num - k < nums itself mean we have
 Dp approach, count every occurence in both if both are equal dp of that will we dp of prev + 1 , else we will take the highest dp.
 - Time complexity :O(n^2)
 - Space complexity :O(n+m)
+
+### 45nd Problem
+**Difficulty :medium**
+Little bit tricky to figure out , but simply just add two until you get number bigger or equal to n, every time you add just move the counter.
+- Time complexity :O(sqrt(n))
+- Space complexity :O(1)
