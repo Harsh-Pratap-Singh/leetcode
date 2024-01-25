@@ -294,3 +294,9 @@ beautiful question ,i really love math problems , once you got it , it became ob
 Math problem, use example to formalute a eq than apply it .
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 43nd Problem
+**Difficulty :medium**
+Problem lies how to exclude the k , simple if num - k < nums itself mean we have counted the nums-k , so we will skip that , i did do this solution on for loop but while loop will be better.
+- Time complexity :O(n)
+- Space complexity :O(1)
