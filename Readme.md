@@ -300,3 +300,9 @@ Math problem, use example to formalute a eq than apply it .
 Problem lies how to exclude the k , simple if num - k < nums itself mean we have counted the nums-k , so we will skip that , i did do this solution on for loop but while loop will be better.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 44nd Problem
+**Difficulty :medium**
+Dp approach, count every occurence in both if both are equal dp of that will we dp of prev + 1 , else we will take the highest dp.
+- Time complexity :O(n^2)
+- Space complexity :O(n+m)
