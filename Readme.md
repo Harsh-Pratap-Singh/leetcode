@@ -295,20 +295,32 @@ Math problem, use example to formalute a eq than apply it .
 - Time complexity :O(n)
 - Space complexity :O(1)
 
-### 43nd Problem
+### 43th Problem
 **Difficulty :medium**
 Problem lies how to exclude the k , simple if num - k < nums itself mean we have counted the nums-k , so we will skip that , i did do this solution on for loop but while loop will be better.
 - Time complexity :O(n)
 - Space complexity :O(1)
 
-### 44nd Problem
+### 44th Problem
 **Difficulty :medium**
 Dp approach, count every occurence in both if both are equal dp of that will we dp of prev + 1 , else we will take the highest dp.
 - Time complexity :O(n^2)
 - Space complexity :O(n+m)
 
-### 45nd Problem
+### 45th Problem
 **Difficulty :medium**
 Little bit tricky to figure out , but simply just add two until you get number bigger or equal to n, every time you add just move the counter.
 - Time complexity :O(sqrt(n))
+- Space complexity :O(1)
+
+### 46th Problem
+**Difficulty :medium**
+if it is divisible by 3 then a/3 , a/3 -1 and a/3 +1 is the ans , it is even easier than some easy problems.
+- Time complexity :O(1)
+- Space complexity :O(n)
+
+### 47th Problem
+**Difficulty :hard**
+xor question , property used (a&b)^(a&c) can be used like a^b&a^b which is more efficient.
+- Time complexity :O(n)
 - Space complexity :O(1)
