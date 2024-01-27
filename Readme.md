@@ -324,3 +324,9 @@ if it is divisible by 3 then a/3 , a/3 -1 and a/3 +1 is the ans , it is even eas
 xor question , property used (a&b)^(a&c) can be used like a^b&a^b which is more efficient.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 48th Problem
+**Difficulty :medium**
+Greedy solution with couter check water left and to add count, rather eay problem.
+- Time complexity :O(n)
+- Space complexity :O(1)
