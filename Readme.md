@@ -330,3 +330,9 @@ xor question , property used (a&b)^(a&c) can be used like a^b&a^b which is more 
 Greedy solution with couter check water left and to add count, rather eay problem.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 49th Problem
+**Difficulty :medium**
+Simple problem using stack with a vector to count the day to come.
+- Time complexity :O(n)
+- Space complexity :O(n)
