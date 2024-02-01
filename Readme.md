@@ -343,3 +343,9 @@ sort it then check it , greedy solution solution.
 - Time complexity :O(nlogn)
 - Space complexity :O(n)
 
+### 51th Problem
+**Difficulty :hard**
+if even their will alway be one element left before the xor , if not then check that the last element xor with all other are zero or not.
+- Time complexity :O(n)
+- Space complexity :O(1)
+
