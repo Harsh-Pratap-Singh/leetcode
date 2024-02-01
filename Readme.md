@@ -336,3 +336,10 @@ Greedy solution with couter check water left and to add count, rather eay proble
 Simple problem using stack with a vector to count the day to come.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 50th Problem
+**Difficulty :medium**
+sort it then check it , greedy solution solution.
+- Time complexity :O(nlogn)
+- Space complexity :O(n)
+
