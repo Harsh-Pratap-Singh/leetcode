@@ -349,3 +349,9 @@ if even their will alway be one element left before the xor , if not then check 
 - Time complexity :O(n)
 - Space complexity :O(1)
 
+### 52th Problem
+**Difficulty :medium**
+using dp in this problem for solving the problem part by part.
+- Time complexity :O(n*k)
+- Space complexity :O(n)
+
