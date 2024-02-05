@@ -355,3 +355,9 @@ using dp in this problem for solving the problem part by part.
 - Time complexity :O(n*k)
 - Space complexity :O(n)
 
+### 53th Problem
+**Difficulty :medium**
+simple question of reversing i would be a easy problem if it were not for the edge case.
+- Time complexity :O(n)
+- Space complexity :O(1)
+
