@@ -366,3 +366,9 @@ simple question of reversing i would be a easy problem if it were not for the ed
 using hashmap to make it a counter for it then we will compare it .
 - Time complexity :O(n*m)
 - Space complexity :O(n+m)
+
+### 55th Problem
+**Difficulty :medium**
+it was a interesting problem with tricky solution but statisfying one.
+- Time complexity :O(n)
+- Space complexity :O(1)
