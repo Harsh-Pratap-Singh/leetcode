@@ -361,3 +361,8 @@ simple question of reversing i would be a easy problem if it were not for the ed
 - Time complexity :O(n)
 - Space complexity :O(1)
 
+### 54th Problem
+**Difficulty :medium**
+using hashmap to make it a counter for it then we will compare it .
+- Time complexity :O(n*m)
+- Space complexity :O(n+m)
