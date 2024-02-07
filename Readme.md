@@ -372,3 +372,9 @@ using hashmap to make it a counter for it then we will compare it .
 it was a interesting problem with tricky solution but statisfying one.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 56th Problem
+**Difficulty :medium**
+using map and vector pair to get the answer.
+- Time complexity :O(n)
+- Space complexity :O(n)
