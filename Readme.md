@@ -384,3 +384,9 @@ using map and vector pair to get the answer.
 One of the best question to understand the dp. 
 - Time complexity :O(n*sqrt(n))
 - Space complexity :O(n)
+
+### 58th Problem
+**Difficulty :medium**
+making vector of kth exam marks then sorting it on reverse , comparing it from 1st to last if score[i][k] is same pushback to answer.
+- Time complexity :O(nlogn)
+- Space complexity :O(n^2)
