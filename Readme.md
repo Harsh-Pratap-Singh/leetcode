@@ -378,3 +378,9 @@ it was a interesting problem with tricky solution but statisfying one.
 using map and vector pair to get the answer.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 57th Problem
+**Difficulty :medium**
+One of the best question to understand the dp. 
+- Time complexity :O(n*sqrt(n))
+- Space complexity :O(n)
