@@ -390,3 +390,9 @@ One of the best question to understand the dp.
 making vector of kth exam marks then sorting it on reverse , comparing it from 1st to last if score[i][k] is same pushback to answer.
 - Time complexity :O(nlogn)
 - Space complexity :O(n^2)
+
+### 59th Problem
+**Difficulty :medium**
+Focus on the  x difference , sort it and then compare it to get the largest .
+- Time complexity :O(nlogn)
+- Space complexity :O(n+m)
