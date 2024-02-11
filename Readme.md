@@ -396,3 +396,11 @@ making vector of kth exam marks then sorting it on reverse , comparing it from 1
 Focus on the  x difference , sort it and then compare it to get the largest .
 - Time complexity :O(nlogn)
 - Space complexity :O(n+m)
+
+### 60th Problem
+**Difficulty :medium**
+Could have used the stack ,but used vector to keep .
+- Time complexity :O(n)
+- Space complexity :O(k) ```
+ k = number of vowel ```
+ 
