@@ -421,3 +421,9 @@ i made it little complicated but it is simple greedy solution .
 collatz conjection question , use pair to store number and collatz value of it , sort it by the collatz value and return the k-1th index.
 - Time complexity :O(nlogn)
 - Space complexity :O(n)
+
+### 64nd Problem
+**Difficulty :medium**
+tricky question first solution ,i thought  was backtracking but i got time exceeded error , so after thinking and with hint help , i get it . Simple if ans is less than current , then add it to ans because ans can use it to make the larger number but if it is smaller than current break.
+- Time complexity :O(nlogn)
+- Space complexity :O(1)
