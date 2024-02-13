@@ -415,3 +415,9 @@ Keep in mind that to get largest not use loop just compare it with the prev.
 i made it little complicated but it is simple greedy solution .
 - Time complexity :O(nlogn)
 - Space complexity :O(n)
+
+### 63nd Problem
+**Difficulty :medium**
+collatz conjection question , use pair to store number and collatz value of it , sort it by the collatz value and return the k-1th index.
+- Time complexity :O(nlogn)
+- Space complexity :O(n)
