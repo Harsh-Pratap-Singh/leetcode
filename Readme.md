@@ -433,3 +433,9 @@ tricky question first solution ,i thought  was backtracking but i got time excee
 simple question just make two vector to store -ve and +ve int then access it alternatively .
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 66th Problem
+**Difficulty :medium**
+Used sliding window to get the three, Struggled to remove the duplicates in the vectors.
+- Time complexity :O(nlogn)
+- Time complexity :O(n)
