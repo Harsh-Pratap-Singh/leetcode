@@ -427,3 +427,9 @@ collatz conjection question , use pair to store number and collatz value of it ,
 tricky question first solution ,i thought  was backtracking but i got time exceeded error , so after thinking and with hint help , i get it . Simple if ans is less than current , then add it to ans because ans can use it to make the larger number but if it is smaller than current break.
 - Time complexity :O(nlogn)
 - Space complexity :O(1)
+
+### 65th Problem
+**Difficulty :medium**
+simple question just make two vector to store -ve and +ve int then access it alternatively .
+- Time complexity :O(n)
+- Space complexity :O(n)
