@@ -439,3 +439,9 @@ simple question just make two vector to store -ve and +ve int then access it alt
 Used sliding window to get the three, Struggled to remove the duplicates in the vectors.
 - Time complexity :O(nlogn)
 - Time complexity :O(n)
+
+### 67th Problem
+**Difficulty :medium**
+Sliding window problem , not as difficult as a make it because of bad naming .
+- Time complexity :O(n)
+- Space complexity :O(n)
