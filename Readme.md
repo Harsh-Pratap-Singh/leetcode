@@ -445,3 +445,9 @@ Used sliding window to get the three, Struggled to remove the duplicates in the 
 Sliding window problem , not as difficult as a make it because of bad naming .
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 68th Problem
+**Difficulty :medium**
+using unoordered map to get the freq of each element , then sorting it .Later remvoing the min element until k is exhausted.
+- Time complexity :O(nlogn)
+- Space complexity :O(n)
