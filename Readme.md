@@ -451,3 +451,9 @@ Sliding window problem , not as difficult as a make it because of bad naming .
 using unoordered map to get the freq of each element , then sorting it .Later remvoing the min element until k is exhausted.
 - Time complexity :O(nlogn)
 - Space complexity :O(n)
+
+### 69th Problem
+**Difficulty :medium**
+Using sliding window to check if i is the ith term is vowel , then add ,if (i - k)th is vowel then sub.return the max.
+- Time complexity :O(n)
+- Space complexity :O(k)
