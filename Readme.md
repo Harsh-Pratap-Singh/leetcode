@@ -457,3 +457,9 @@ using unoordered map to get the freq of each element , then sorting it .Later re
 Using sliding window to check if i is the ith term is vowel , then add ,if (i - k)th is vowel then sub.return the max.
 - Time complexity :O(n)
 - Space complexity :O(k)
+
+### 70th Problem
+**Difficulty :medium**
+Easily the most simple looking but most tricky to cover all the test case .
+- Time complexity :O(n)
+- Space complexity :O(1)
