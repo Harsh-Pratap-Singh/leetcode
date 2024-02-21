@@ -467,5 +467,5 @@ Easily the most simple looking but most tricky to cover all the test case .
 ### 71th Problem
 **Difficulty :medium**
 using shifting operator to check upto what term it is equal .
-- Time complexity :O(n)
+- Time complexity :O(logn)
 - Space complexity :O(1)
