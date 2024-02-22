@@ -480,3 +480,9 @@ first time trying graph problem ,used vector to graph out incoming edge and outg
 simple while loop and conditional statement question , just remember to subtract from large to small.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 74th Problem 
+**Difficulty :medium**
+improving dp lil bit by bit, when asked about the prefix sum try to use dp .
+- Time complexity :O(n)
+- Space comlexity :O(n)
