@@ -475,3 +475,8 @@ using shifting operator to check upto what term it is equal .
 first time trying graph problem ,used vector to graph out incoming edge and outgoing edge .
 - Time complexity :O(n)
 - Space complexity :O(n)
+### 73th Problem
+**Difficulty :medium**
+simple while loop and conditional statement question , just remember to subtract from large to small.
+- Time complexity :O(n)
+- Space complexity :O(1)
