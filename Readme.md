@@ -492,3 +492,9 @@ improving dp lil bit by bit, when asked about the prefix sum try to use dp .
 atfirst i used pow(num,n) , but think this as a cheating . Then i tried it and got a answer.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 76th Problem
+**Difficulty :medium**
+using unordered_map to cnt the freq.
+- Time complexity :O(n)
+- Space complexity :O(n)
