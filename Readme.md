@@ -498,3 +498,12 @@ atfirst i used pow(num,n) , but think this as a cheating . Then i tried it and g
 using unordered_map to cnt the freq.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 77th Problem
+**Difficulty :easy**
+checking if both tree are equal.
+    - base case if(both are null) => true.
+    - recursive case if(both->val are equal and both are not empty) then return itself with ->left and ->rigth.
+    - else return false.
+- Time complexity :O(n)
+- Space complexity :O(1)
