@@ -507,3 +507,10 @@ checking if both tree are equal.
     - else return false.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+
+### 78th Problem
+**Difficulty : medium**
+after many failed attempt finally got the answer,just by using stack and counter .
+- Time complexity :O(n)
+- Space complexity :O(n)
