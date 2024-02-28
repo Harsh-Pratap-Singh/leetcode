@@ -514,3 +514,9 @@ checking if both tree are equal.
 after many failed attempt finally got the answer,just by using stack and counter .
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 79th Problem
+**Difficulty : medium**
+it would be tough in the c , but in cpp with unordered map it become easy problem.
+- Time complexity :O(n)
+- Space complexity :O(n)
