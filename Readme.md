@@ -517,6 +517,6 @@ after many failed attempt finally got the answer,just by using stack and counter
 
 ### 79th Problem
 **Difficulty : medium**
-it would be tough in the c , but in cpp with unordered map it become easy problem.
+it would be tough in the c , but in cpp with unordered map it become easy problem.But answer required to have O(1) space complexity. so we will try the index changing .if -ve we will return it as double.
 - Time complexity :O(n)
-- Space complexity :O(n)
+- Space complexity :O(1)
