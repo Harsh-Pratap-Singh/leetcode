@@ -520,3 +520,9 @@ after many failed attempt finally got the answer,just by using stack and counter
 it would be tough in the c , but in cpp with unordered map it become easy problem.But answer required to have O(1) space complexity. so we will try the index changing .if -ve we will return it as double.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 80th
+**Difficulty : medium**
+simple question just use hashmap for cow , simply compare both arr for the bull then cow -= bull.
+- Time complexity :O(n)
+- Space complexity :O(1) //256
