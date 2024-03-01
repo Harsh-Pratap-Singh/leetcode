@@ -530,5 +530,6 @@ simple question just use hashmap for cow , simply compare both arr for the bull 
 ### 81th Problem
 **Difficulty : medium**
 if prev <= cur , cur++ until cur > prev , do it for the whole array.
-- Time complexity :O(nlogn)
+OR just calculate the difference and add difference + 1 to cur and ans.
+- Time complexity :O(nlogn) 
 - Space complexity :O(1)
