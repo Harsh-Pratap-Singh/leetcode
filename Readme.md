@@ -521,8 +521,14 @@ it would be tough in the c , but in cpp with unordered map it become easy proble
 - Time complexity :O(n)
 - Space complexity :O(1)
 
-### 80th
+### 80th Problem
 **Difficulty : medium**
 simple question just use hashmap for cow , simply compare both arr for the bull then cow -= bull.
 - Time complexity :O(n)
 - Space complexity :O(1) //256
+
+### 81th Problem
+**Difficulty : medium**
+if prev <= cur , cur++ until cur > prev , do it for the whole array.
+- Time complexity :O(nlogn)
+- Space complexity :O(1)
