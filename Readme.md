@@ -533,3 +533,9 @@ if prev <= cur , cur++ until cur > prev , do it for the whole array.
 OR just calculate the difference and add difference + 1 to cur and ans.
 - Time complexity :O(nlogn) 
 - Space complexity :O(1)
+
+### 82th Problem
+**Difficulty : medium**
+using unordered map to map it , then if mapping is more than n/3 then push into the ans.
+- Time complexity :O(n)
+- Space complexity :O(n)
