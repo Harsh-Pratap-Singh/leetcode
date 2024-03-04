@@ -545,3 +545,9 @@ using unordered map to map it , then if mapping is more than n/3 then push into 
 using sieve to map if the number is prime or not upto target , then simply check if x,n-x is prime .
 - Time complexity :O(nlogn)
 - Space complexity :O(n)
+
+### 84th Problem
+**Difficulty : medium**
+using unordered map then simply sort it in descending order then return first k elements.
+- Time complexity :O(nlogn)
+- Space complexity :O(n) // considering k is small 
