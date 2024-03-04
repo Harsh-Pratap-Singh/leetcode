@@ -539,3 +539,9 @@ OR just calculate the difference and add difference + 1 to cur and ans.
 using unordered map to map it , then if mapping is more than n/3 then push into the ans.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 83th Problem
+**Difficulty : medium**
+using sieve to map if the number is prime or not upto target , then simply check if x,n-x is prime .
+- Time complexity :O(nlogn)
+- Space complexity :O(n)
