@@ -551,3 +551,9 @@ using sieve to map if the number is prime or not upto target , then simply check
 using unordered map then simply sort it in descending order then return first k elements.
 - Time complexity :O(nlogn)
 - Space complexity :O(n) // considering k is small 
+
+### 85th Problem
+**Difficulty : medium**
+using hashmap (vector) to map it ,if value repeat change that to all zero and ans++.
+- Time complexity :O(n)
+- Space complexity :O(n)
