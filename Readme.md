@@ -557,3 +557,8 @@ using unordered map then simply sort it in descending order then return first k 
 using hashmap (vector) to map it ,if value repeat change that to all zero and ans++.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 86th Problem
+two pointer with sorting to make sure where the min and max are , using greedy method.
+- Time complexity :O(n)
+- Space complexity :O(1)
