@@ -559,6 +559,13 @@ using hashmap (vector) to map it ,if value repeat change that to all zero and an
 - Space complexity :O(n)
 
 ### 86th Problem
+**Difficulty : medium**
 two pointer with sorting to make sure where the min and max are , using greedy method.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 87th Problem
+**Difficulty : medium**
+I never new there was stl of next_permutation which made it easy,well it was like lil bit cheating .
+- Time complexity : O(n)
+- Space complexity :O(n^2)
