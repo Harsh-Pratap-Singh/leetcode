@@ -567,7 +567,7 @@ two pointer with sorting to make sure where the min and max are , using greedy m
 ### 87th Problem
 **Difficulty : medium**
 I never new there was stl of next_permutation which made it easy,well it was like lil bit cheating .
-- Time complexity : O(n)
+- Time complexity : O(nlogn)
 - Space complexity :O(n^2)
 
 ### 88th Problem
@@ -575,3 +575,8 @@ I never new there was stl of next_permutation which made it easy,well it was lik
 Using 2 pointers , if sum is less than target plus ,if greater than -ve , if equal check the min.
 - Time complexity :O(nlogn)
 - Space complexity :O(1)
+### 89th Problem
+**Difficulty : medium**
+it was same as permutation one.
+- Time complexity : O(nlogn)
+- Space complexity :O(n^2)
