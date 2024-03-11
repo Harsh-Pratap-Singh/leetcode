@@ -586,3 +586,9 @@ it was same as permutation one.
 Today's leetcode question ,simply just sort it using .find function of order  as reference.
 - Time complexity : O(nlogn)
 - Space complexity :O(1)
+
+### 91th Problem
+**Difficulty : medium**
+Best time to buy and sell stock II if next to cur position is less than target sell else hold.
+- Time complexity : O(n)
+- Space complexity :O(1)
