@@ -580,3 +580,9 @@ Using 2 pointers , if sum is less than target plus ,if greater than -ve , if equ
 it was same as permutation one.
 - Time complexity : O(nlogn)
 - Space complexity :O(n^2)
+
+### 90th Problem
+**Difficulty : medium**
+Today's leetcode question ,simply just sort it using .find function of order  as reference.
+- Time complexity : O(nlogn)
+- Space complexity :O(1)
