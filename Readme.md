@@ -592,3 +592,9 @@ Today's leetcode question ,simply just sort it using .find function of order  as
 Best time to buy and sell stock II if next to cur position is less than target sell else hold.
 - Time complexity : O(n)
 - Space complexity :O(1)
+
+### 92th Problem
+**Difficulty : medium**
+greedy method used in it .
+- Time complexity : O(n)
+- Space complexity :O(n)
