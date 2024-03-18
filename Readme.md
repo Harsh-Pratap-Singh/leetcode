@@ -598,3 +598,9 @@ Best time to buy and sell stock II if next to cur position is less than target s
 greedy method used in it .
 - Time complexity : O(n)
 - Space complexity :O(n)
+
+### 93th Problem
+**Difficulty : medium**
+using sorting to sort for the upper bound first , if it in the upper bound then nothing if outside the upper bound then ans++ and change upper bound .
+- Time complexity : O(nlogn)
+- Space complexity :O(1)

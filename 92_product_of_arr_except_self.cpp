@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> productExceptSelf(vector<int>& v) {
+    vector<int>productExceptSelf(vector<int>& v) {
         int n=v.size();
         vector<int>l(n,1);
         vector<int>r(n,1);
