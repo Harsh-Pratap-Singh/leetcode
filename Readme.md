@@ -604,3 +604,9 @@ greedy method used in it .
 using sorting to sort for the upper bound first , if it in the upper bound then nothing if outside the upper bound then ans++ and change upper bound .
 - Time complexity : O(nlogn)
 - Space complexity :O(1)
+
+### 94th Problem
+**Difficulty : medium**
+using seive to calculate the sum or divisor and number of divisor until the max term.
+- Time complexity : O(nlogn)
+- Space complexity :O(n)
