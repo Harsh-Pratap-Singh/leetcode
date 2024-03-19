@@ -610,3 +610,9 @@ using sorting to sort for the upper bound first , if it in the upper bound then 
 using seive to calculate the sum or divisor and number of divisor until the max term.
 - Time complexity : O(nlogn)
 - Space complexity :O(n)
+
+### 95th Problem
+**Difficulty : medium**
+using seive .
+- Time complexity :O(nloglogn)
+- Space complexity :O(1)
