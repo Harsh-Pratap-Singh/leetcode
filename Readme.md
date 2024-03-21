@@ -616,3 +616,9 @@ using seive to calculate the sum or divisor and number of divisor until the max 
 using seive .
 - Time complexity :O(nloglogn)
 - Space complexity :O(1)
+
+### 96th Problem
+**Difficulty : medium**
+simple sorting and return kth from last
+- Time complexity : O(nlogn)
+- Space complexity :O(1)
