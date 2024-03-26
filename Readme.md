@@ -629,3 +629,9 @@ focus on the brute force ,could have solved using hashmap for O(n).
 for constant space we can change in array making index to -ve but i am too lazy right now for that.
 - Time complexity :O(nlogn)
 - Space complexity :O(1)
+
+### 98th Problem
+**Difficulty : hard**
+make n digit number form 1-n and permutation to it until the kth time.
+- Time complexity :O(n)
+- Space complexity :O(n)
