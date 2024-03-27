@@ -635,3 +635,9 @@ for constant space we can change in array making index to -ve but i am too lazy 
 make n digit number form 1-n and permutation to it until the kth time.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 99th Problem
+**Difficulty : easy**
+didn't think of creating even odd index and tracking them and returning the min. Easy question but got better of me .
+- Time complexity :O(n)
+- Time complexity :O(1)
