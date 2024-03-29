@@ -640,4 +640,10 @@ make n digit number form 1-n and permutation to it until the kth time.
 **Difficulty : easy**
 didn't think of creating even odd index and tracking them and returning the min. Easy question but got better of me .
 - Time complexity :O(n)
-- Time complexity :O(1)
+- Space complexity :O(1)
+
+### 100th Problem
+**Difficulty : medium**
+using sliding window ,j upto cur is more than or equal to k , if so i++. then add i to answer .
+- Time complexity :O(n)
+- Space complexity :O(1)
