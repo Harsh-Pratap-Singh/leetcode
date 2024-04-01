@@ -647,3 +647,9 @@ didn't think of creating even odd index and tracking them and returning the min.
 using sliding window ,j upto cur is more than or equal to k , if so i++. then add i to answer .
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 101th Problem
+**Difficulty : medium**
+using hashmap to map every element occurrence from 0-25 ('b' - 'a' == 1), then sorting it and comparing it .
+- Time complexity :O(n)
+- Space complexity :O(26)
