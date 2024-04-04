@@ -652,4 +652,10 @@ using sliding window ,j upto cur is more than or equal to k , if so i++. then ad
 **Difficulty : medium**
 using hashmap to map every element occurrence from 0-25 ('b' - 'a' == 1), then sorting it and comparing it .
 - Time complexity :O(n)
-- Space complexity :O(26)
+- Space complexity :O(1)
+
+### 102th Problem
+**Difficulty : medium**
+Making use of hashmap to store the occurrence at each element .if 2 simply cur++ . Since max element is only upto size of array we will be using vector instead of map to map the element .
+- Time complexity : O(n)
+- Space complexity : O(n)
