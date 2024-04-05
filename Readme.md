@@ -659,3 +659,9 @@ using hashmap to map every element occurrence from 0-25 ('b' - 'a' == 1), then s
 Making use of hashmap to store the occurrence at each element .if 2 simply cur++ . Since max element is only upto size of array we will be using vector instead of map to map the element .
 - Time complexity : O(n)
 - Space complexity : O(n)
+
+### 103th Problem 
+**Difficulty : medium**
+using hashmap and prefix sum.
+- Time complexity :O(n)
+- Space complexity :O(n)
