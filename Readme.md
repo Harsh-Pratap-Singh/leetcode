@@ -665,3 +665,9 @@ Making use of hashmap to store the occurrence at each element .if 2 simply cur++
 using hashmap and prefix sum.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 104th Problem
+**Difficulty : medium**
+adding two number using full bit adder , to add a or b , carry == b and a , left shift b and a = sum. repeat until carry is 0.
+- Time complexity :O(n)
+- Space complexity :O(1)
