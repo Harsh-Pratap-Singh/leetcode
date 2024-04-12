@@ -671,3 +671,9 @@ using hashmap and prefix sum.
 adding two number using full bit adder , to add a or b , carry == b and a , left shift b and a = sum. repeat until carry is 0.
 - Time complexity :O(n)
 - Space complexity :O(1)
+
+### 105th Problem
+**Difficulty : medium**
+just getting the next permutation and checking if it is larger than it or not .
+- Time complexity :O(1)
+- Space complexity :O(1)
