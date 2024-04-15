@@ -683,3 +683,9 @@ just getting the next permutation and checking if it is larger than it or not .
 Use stack to check valid parenthesis , and remove the remaining element after the last valid parenthesis.
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 107th Problem
+**Difficulty : medium**
+using stack to check if next value is less than cur , calculate current max.
+- Time complexity :O(n)
+- Space complexity :O(n)
