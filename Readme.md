@@ -695,3 +695,9 @@ using stack to check if next value is less than cur , calculate current max.
 using hash map and sliding window .
 - Time complexity :O(n)
 - Space complexity :O(n)
+
+### 109th Problem
+**Difficulty : medium**
+Finding prime factors using best algorithm possible, then adding it if it is equal to the num that we have givern return it.
+- Time complexity :O(x*sqrt(n)) // it highly depend on the input 
+- Space complexity :O(1)
