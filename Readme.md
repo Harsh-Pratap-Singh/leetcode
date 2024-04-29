@@ -701,3 +701,10 @@ using hash map and sliding window .
 Finding prime factors using best algorithm possible, then adding it if it is equal to the num that we have givern return it.
 - Time complexity :O(x*sqrt(n)) // it highly depend on the input 
 - Space complexity :O(1)
+
+### 110th Problem
+**Difficulty : medium**
+min number of operations to make array xor equal to k.
+we will simple xor the array with the k , and count the 1's bit in the k which is the ans.
+- Time complexity : O(n)
+- Space complexity : O(1)
