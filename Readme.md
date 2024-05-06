@@ -708,3 +708,9 @@ min number of operations to make array xor equal to k.
 we will simple xor the array with the k , and count the 1's bit in the k which is the ans.
 - Time complexity : O(n)
 - Space complexity : O(1)
+
+### 111th Problem
+**Difficulty : medium**
+to change the value without head we will just change teh val to next node val.
+- Time complexity : O(n)
+- Space complexity : O(n)
