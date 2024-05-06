@@ -714,3 +714,9 @@ we will simple xor the array with the k , and count the 1's bit in the k which i
 to change the value without head we will just change teh val to next node val.
 - Time complexity : O(n)
 - Space complexity : O(n)
+
+### 112th Problem
+**Difficulty : medium**
+first i converted it to vector,compute it then convert it back to LL. OR simple reverse it then skip if it is min then cur max.
+- Time complexity : O(n)
+- Space complexity : O(n)
