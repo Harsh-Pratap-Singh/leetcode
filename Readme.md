@@ -720,3 +720,9 @@ to change the value without head we will just change teh val to next node val.
 first i converted it to vector,compute it then convert it back to LL. OR simple reverse it then skip if it is min then cur max.
 - Time complexity : O(n)
 - Space complexity : O(n)
+
+### 113th Problem
+**Difficulty : medium**
+Could have used 2 while loop but can also simply go through it in one loop,always select the highest value so it will be not change .
+- Time complexity : O(n)
+- Space complexity : O(1)
