@@ -726,3 +726,9 @@ first i converted it to vector,compute it then convert it back to LL. OR simple 
 Could have used 2 while loop but can also simply go through it in one loop,always select the highest value so it will be not change .
 - Time complexity : O(n)
 - Space complexity : O(1)
+
+### 114th Problem
+**Difficulty : medium**
+I did this with Brute force , dp and modified kadane's algorithm and first during prefix and suffix and also can be done with Curmax and with Curmin.
+- Time complexity : O(n)
+- Space complexity : O(1)
