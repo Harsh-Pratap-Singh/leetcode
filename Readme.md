@@ -732,3 +732,9 @@ Could have used 2 while loop but can also simply go through it in one loop,alway
 I did this with Brute force , dp and modified kadane's algorithm and first during prefix and suffix and also can be done with Curmax and with Curmin.
 - Time complexity : O(n)
 - Space complexity : O(1)
+
+### 115th Problem
+**Difficulty : medium**
+Interesting croaking problem we have to check the order of the each letter ,if 'c' then start f++ if 'k' mean that frog complete croak k--, lastly we will take the max of f .
+- Time complexity : O(n)
+- Space complexity : O(1)
