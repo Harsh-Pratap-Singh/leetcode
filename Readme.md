@@ -738,3 +738,8 @@ I did this with Brute force , dp and modified kadane's algorithm and first durin
 Interesting croaking problem we have to check the order of the each letter ,if 'c' then start f++ if 'k' mean that frog complete croak k--, lastly we will take the max of f .
 - Time complexity : O(n)
 - Space complexity : O(1)
+### 116th Problem
+**Difficulty : medium**
+Rather simple question once you understand it, create a array to store the absolute difference of the letters,then perform simple largest substring with sum equal to or less the Max.
+- Time complexity : O(n)
+- Space complexity : O(n)
