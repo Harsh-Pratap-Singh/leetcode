@@ -749,3 +749,9 @@ Rather simple question once you understand it, create a array to store the absol
 Pretty common type of LL problem just remember to have a pointer to head of even that we can later odd->next = ptr_even_head.
 - Time complexity : O(n)
 - Space complexity : O(1)
+
+### 118th Problem
+**Difficulty : medium**
+I just learn how to implement trie it is on the medium side with implementation .
+- Time complexity : #
+- Space complexity : #
