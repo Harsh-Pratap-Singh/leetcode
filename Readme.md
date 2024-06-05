@@ -743,3 +743,9 @@ Interesting croaking problem we have to check the order of the each letter ,if '
 Rather simple question once you understand it, create a array to store the absolute difference of the letters,then perform simple largest substring with sum equal to or less the Max.
 - Time complexity : O(n)
 - Space complexity : O(n)
+
+### 117th Problem
+**Difficulty : medium**
+Pretty common type of LL problem just remember to have a pointer to head of even that we can later odd->next = ptr_even_head.
+- Time complexity : O(n)
+- Space complexity : O(1)
