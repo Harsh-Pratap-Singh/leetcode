@@ -755,3 +755,8 @@ Pretty common type of LL problem just remember to have a pointer to head of even
 I just learn how to implement trie it is on the medium side with implementation .
 - Time complexity : #
 - Space complexity : #
+### 119th Problem
+**Difficulty : medium**
+one of the few question that i got it one try withing 5min.Try using algo like kadane if(new el) then push the result in ans.
+- Time complexity : O(n)
+- Space complexity : O(1)
