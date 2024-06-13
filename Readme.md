@@ -760,3 +760,9 @@ I just learn how to implement trie it is on the medium side with implementation 
 one of the few question that i got it one try withing 5min.Try using algo like kadane if(new el) then push the result in ans.
 - Time complexity : O(n)
 - Space complexity : O(1)
+
+### 120th Problem
+**Difficulty : medium**
+used min heap with pair , max for the index part. Simply pop the smallest val at the max index after you see '*' .
+- Time complexity : O(nlogn)
+- Space complexity : O(n)
